@@ -1,3 +1,3 @@
 # Zoom-Clone-With-WebRTC
 
-#credit: Webdevmaster
+#credit: WebDevSimplified
